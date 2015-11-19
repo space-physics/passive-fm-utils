@@ -40,10 +40,10 @@ Example Download Commands
 References
 ==========
 
-.. [1] Lind F., et al, “Intercepted Signals for Ionospheric Science”, Radio Science, vol. 48, pp. 248-264, June 2013.
-.. [2] Sahr J. and Lind F., “The Manastash Ridge Radar: A passive bistatic radar for upper atmospheric radio science”, Radio Science, vol. 32, no. 6, pp. 2345-2358, Nov. 1997.
+.. [1] Lind F., et al, “Intercepted Signals for Ionospheric Science”, Radio Science, vol. 48, pp. 248-264, June 2013. doi:10.1002/rds.20034, 2013
+.. [2] Sahr J. and Lind F., “The Manastash Ridge Radar: A passive bistatic radar for upper atmospheric radio science”, Radio Science, vol. 32, no. 6, pp. 2345-2358, Nov. 1997. doi: 10.1029/97RS02454
 .. [3] Sahr J. “Ionospheric Measurements”, Chap. 7 in, Advances in Bistatic Radar, SciTech Pub., 2007.
-.. [4] Meyer M., “Passive VHF Radar Interferometer Implementation, Observations, and Analysis”, M.S. thesis, Elect. Eng. Dept., Univ. of Washington, Seattle, WA, 2003.
+.. [4] Meyer M., “Passive VHF Radar Interferometer Implementation, Observations, and Analysis”, M.S. thesis, Elect. Eng. Dept., Univ. of Washington, Seattle, WA, 2003. URL: www.if.ufrj.br/~marroqui/DRACON/tese/mgm-thesis.pdf
 .. [5] Lathi B. and Ding Z., Modern Digital and Analog Communication Systems. 4th Ed. Oxford Univ. Press, 2009.
 .. [6] Lyons R., Understanding Digital Signal Processing. 3rd Ed., Prentice Hall, 2010.
 .. [7] Carson, J., "Notes on the Theory of Modulation," Proc. IRE , vol.10, no.1, pp.57,64, Feb. 1922. doi: 10.1109/JRPROC.1922.219793
