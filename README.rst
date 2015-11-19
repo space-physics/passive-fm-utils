@@ -20,7 +20,7 @@ These programs don't actually do any processing, just for user convenience of pl
 
 Getting the Data
 ================
-You will need ``wget``. This is built-in to every Linux system, on Cgywin under Windows, and via HomeBrew or MacPorts on Mac.
+You will need ``wget``. This is built-in to every Linux system, on Cygwin under Windows, and via HomeBrew or MacPorts on Mac.
 
 Example Download Commands
 -------------------------
