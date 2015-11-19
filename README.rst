@@ -2,8 +2,7 @@
 passive-fm-utils
 ======================
 
-Functions used with data from MIT Haystack Intercepted Signals for Ionospheric Science 
-P. I. Frank Lind
+Functions used with data from `MIT Haystack Intercepted Signals for Ionospheric Science <http://www.haystack.mit.edu/atm/science/space/isis/index.html>`_
 
 .. contents::
 
