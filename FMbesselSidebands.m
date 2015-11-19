@@ -4,7 +4,7 @@ function FMbesselSidebands()
 % B. Lathi "Modern Digital and Analog Communication Systems", 4th Ed., Oxford Univ. Press, 2009.
 % M. Schwartz "Information Transmission, Modulation, and Noise", 3rd Ed., McGraw-Hill 1980.
 
-JnOrder = 2.5/3; % k_omega = 5 for broadcast FM
+JnOrder = 5; % k_omega = 5 for broadcast FM
 
 N = 8;
 sidebands = 1:N; % consider up to Nth sideband (symmetric) (0th is NOT included see Lathi p.265)
